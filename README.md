@@ -1,2 +1,7 @@
-# html5_assign2
-HTML Intro Assign #2
+<html lang = "en">
+<head></head>
+<body>
+<title> 'My first webpage ever!!!'</title>
+<p1> These are the contents for my first webpage for my 1st html web page assigment</p1>
+</body>
+</html>
